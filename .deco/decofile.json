@@ -74,7 +74,8 @@
     }
   },
   "Preview /sections/Footer.tsx": {
-    "__resolveType": "site/sections/Footer.tsx"
+    "__resolveType": "site/sections/Footer.tsx",
+    "text": "PHP Home"
   },
   "Preview /sections/ItWorks.tsx": {
     "__resolveType": "site/sections/ItWorks.tsx",
@@ -263,5 +264,12 @@
       "__resolveType": "website/sections/Seo/SeoV2.tsx",
       "type": "article"
     }
+  },
+  "blog": {
+    "__resolveType": "decohub/apps/blog.ts"
+  },
+  "collections/blog/posts/1724926af586": {
+    "name": "collections/blog/posts/1724926af586",
+    "__resolveType": "blog/loaders/Blogpost.ts"
   }
 }
